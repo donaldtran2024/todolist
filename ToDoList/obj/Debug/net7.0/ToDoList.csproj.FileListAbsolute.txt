@@ -1,0 +1,7 @@
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.csproj.AssemblyReference.cache
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.AssemblyInfoInputs.cache
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.AssemblyInfo.cs
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.csproj.CoreCompileInputs.cache
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/obj/Debug/net7.0/LifePlanner.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/obj/Debug/net7.0/LifePlanner.MvcApplicationPartsAssemblyInfo.cache

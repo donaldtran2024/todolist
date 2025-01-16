@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="UnitOfWork\" />
+    <None Remove="Repository\" />
+    <None Remove="DB\" />
+    <None Remove="Entities\" />
+    <None Remove="Repository\InMemory\" />
+    <None Remove="Repository\SqlServer\" />
+    <None Remove="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="UnitOfWork\" />
+    <Folder Include="Repository\" />
+    <Folder Include="DB\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Repository\InMemory\" />
+    <Folder Include="Repository\SqlServer\" />
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+</Project>

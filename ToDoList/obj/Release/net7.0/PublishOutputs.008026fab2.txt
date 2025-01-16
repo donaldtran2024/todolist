@@ -1,0 +1,11 @@
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/bin/Release/net7.0/publish/ToDoList
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/bin/Release/net7.0/publish/appsettings.Development.json
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/bin/Release/net7.0/publish/appsettings.json
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/bin/Release/net7.0/publish/ToDoList.dll
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/bin/Release/net7.0/publish/ToDoList.deps.json
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/bin/Release/net7.0/publish/ToDoList.runtimeconfig.json
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/bin/Release/net7.0/publish/ToDoList.pdb
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/Mylife/Developer/MY/Dotnet/ToDoList/ToDoList/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

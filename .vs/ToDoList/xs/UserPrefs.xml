@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{93A1D5DD-ED91-4711-A301-86F324C545F0}|https">
+  <MonoDevelop.Ide.ItemProperties.LifePlanner PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoList/Repository/EmptyClass.cs">
+    <Files>
+      <File FileName="ToDoList/Program.cs" />
+      <File FileName="ToDoList/DB/ToDoListDb.sql" />
+      <File FileName="ToDoList/appsettings.json" />
+      <File FileName="ToDoList/Repository/IToDoListRepository.cs" />
+      <File FileName="ToDoList/Entities/ToDoList.cs" />
+      <File FileName="ToDoList/Repository/EmptyClass.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoList" expanded="True">
+            <Node name="ToDoList" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="DB" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="EmptyClass.cs" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
